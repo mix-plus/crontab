@@ -1,0 +1,18 @@
+{
+    "name": "mix-plus/crontab",
+    "description": "crontab",
+    "type": "library",
+    "license": "Apache2.0",
+    "autoload": {
+        "psr-4": {
+            "MixPlus\\Crontab\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "cexll",
+            "email": "evanxian9@gmail.com"
+        }
+    ],
+    "require": {}
+}
